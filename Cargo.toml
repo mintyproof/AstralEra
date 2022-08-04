@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "common",
+    "database",
+    "launcher",
+    "server_lobby",
+    "server_login"
+]

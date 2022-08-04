@@ -1,0 +1,10 @@
+[package]
+name = "common"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.13"
+byteorder = "1"
+deku = "0.13"
+rust-crypto = "0.2"

@@ -1,0 +1,11 @@
+[package]
+name = "server_lobby"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.13"
+byteorder = "1"
+common = { path = "../common" }
+deku = "0.13"
+rust-crypto = "0.2"
